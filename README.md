@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Telli
 
-<!--
-**tellsec/tellsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am building practical cybersecurity skills focused on Blue Team operations, VPS hardening, and secure remote access.
 
-Here are some ideas to get you started:
+## Current focus
+- WireGuard VPN
+- UFW firewall
+- Fail2ban
+- SSH hardening
+- Log analysis
+- Incident documentation
+- Bash scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- SOC portfolio
+- VPS hardening notes
+- Security runbooks
+- Incident reports
+- Daily security summaries
+
+## Goal
+I am building toward SOC Analyst, Detection Engineer, and Security Engineer roles through hands-on labs and practical documentation.
